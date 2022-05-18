@@ -1,0 +1,25 @@
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+.left img{
+    width: 40px;
+    height: 28px;
+    margin-left: 25px;
+}
+
+nav{
+    padding: 8px 0px;
+}
+
+.container{
+    max-width: 95vw;
+    margin: auto;
+}
+
+nav ul li{
+    list-style: none;
+    padding: 0px 10px;
+}
+
